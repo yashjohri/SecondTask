@@ -1,4 +1,4 @@
-package com.johri.secondtask;
+package com.johri.secondtask.Fragments;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -11,6 +11,9 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentResultListener;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.johri.secondtask.Adapters.ListAdapter;
+import com.johri.secondtask.R;
 
 import java.util.ArrayList;
 

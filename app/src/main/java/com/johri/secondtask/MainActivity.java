@@ -1,12 +1,11 @@
 package com.johri.secondtask;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentContainerView;
-import androidx.fragment.app.FragmentResultListener;
 
 import android.os.Bundle;
+
+import com.johri.secondtask.Fragments.FirstFragment;
+import com.johri.secondtask.Fragments.SecondFragment;
 
 import java.util.ArrayList;
 
